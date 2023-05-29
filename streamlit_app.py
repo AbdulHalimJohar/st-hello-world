@@ -44,5 +44,5 @@ def main():
         else:
             st.write('No recommendations found for the given user.')
             
-  if __name__ == '__main__':
+ if __name__ == '__main__':
     main()
